@@ -1,24 +1,25 @@
-# README
+## Feisal Patel
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Date:** Sun, 25 November
 
-Things you may want to cover:
+**Time:** 3pm GMT
 
-* Ruby version
+### Code challenge Page
 
-* System dependencies
+A brief overview of the project made available here to allow focus on
+the main code challenge.
 
-* Configuration
+### Summary
 
-* Database creation
 
-* Database initialization
+### Implementation
+Notes
 
-* How to run the test suite
+### Links
 
-* Services (job queues, cache servers, search engines, etc.)
+If called for, this page will be used as the [Challenge page](https://challenge-20181123.herokuapp.com/)
 
-* Deployment instructions
+### Acknowledgements
 
-* ...
+- Bulleted
+- List
